@@ -15,7 +15,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date | Episode Title | Core Insight | Actionable Idea | Implemented? | Link |
 |------|----------------|---------------|------------------|--------------|------|
-| 2025-07-30 | Ep. 789: [Title] | Summary of key takeaway | What you can lab or build | ✅  | [Link] |
+| 2025-07-30 | Ep. 789: How a Global Payments Processor Automates Firewall Changes at Scale | Summary of key takeaway | What you can lab or build | ✅  | [Link] |
 
 
 ---
