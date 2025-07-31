@@ -15,14 +15,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date | Episode Title | Core Insight | Actionable Idea | Implemented? | Link |
 |------|----------------|---------------|------------------|--------------|------|
-| 2025-07-30 | Ep. 789: How a Global Payments Processor Automates Firewall Changes at Scale | Adyen automated firewall changes using tools like Python and Ansible to replace manual scripts and reduce risk. Dan Peachey and Vlad Skuba explain how their self-service system improves speed and resiliency.
-
-
-
-
-
-
-
+| 2025-07-30 | Ep. 789: How a Global Payments Processor Automates Firewall Changes at Scale | Adyen replaced manual firewall changes with a self-service system, boosting speed and resilience. Automation now handles daily requests safely at scale.
 Ask ChatGPT
  | What you can lab or build | ✅  | [Link] |
 
