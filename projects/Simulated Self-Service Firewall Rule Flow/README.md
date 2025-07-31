@@ -22,7 +22,7 @@ Simulates a simplified firewall change request system using static ACLs and manu
 - Simulate version-controlled change tracking (Git workflow mock).
 
 ## 🎯 Inspired By
-[Heavy Networking 789: How Adyen Automates Firewall Changes At Scale](https://packetpushers.net/podcast/heavy-networking-789-how-a-global-payments-processor-automates-firewall-changes-at-scale/)
+[Heavy Networking 789: How Adyen Automates Firewall Changes At Scale](https://packetpushers.net/podcasts/heavy-networking/hn789-how-a-global-payments-processor-automates-firewall-changes-at-scale/)
 
 ---
 
