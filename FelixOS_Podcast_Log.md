@@ -16,7 +16,6 @@ Track and extract high-value, implementable insights from technical podcasts lik
 | Date | Episode Title | Core Insight | Actionable Idea | Implemented? | Link |
 |------|----------------|---------------|------------------|--------------|------|
 | 2025-07-30 | Ep. 789: Firewall Automation at Adyen | Self-service system replaced manual changes |  Simulate ACL workflow in Packet Tracer |  ✅  | https://packetpushers.net/podcasts/heavy-networking/hn789-how-a-global-payments-processor-automates-firewall-changes-at-scale/
-
 ---
 
 ## 💡 FelixOS-Level Prompts While Listening
