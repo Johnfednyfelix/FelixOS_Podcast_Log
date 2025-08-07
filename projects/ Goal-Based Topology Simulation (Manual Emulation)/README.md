@@ -38,4 +38,4 @@ Result: Rerouted via alternate link (Interface Serial0/0/0
 ~15 minutes
 
 ## 🎙️ Inspired By
-[HN Ep. 790. From Rule-Based to Goal-Based]((https://packetpushers.net/podcasts/heavy-networking/hn790-from-rule-based-to-goal-based-rethinking-autonomous-ai-operations-sponsored/))
+[HN Ep. 790. From Rule-Based to Goal-Based](https://packetpushers.net/podcasts/heavy-networking/hn790-from-rule-based-to-goal-based-rethinking-autonomous-ai-operations-sponsored/)
