@@ -70,4 +70,4 @@ A daily log of internet performance showing:
 ---
 
 ## 🎙️ Inspired By
-[HW Ep. 057 – Orb: A New Tool for Monitoring Internet Connectivity](https://packetpushers.net/podcast/heavy-wireless-057-orb-a-new-tool-for-monitoring-internet-connectivity)
+[HW Ep. 057 – Orb: A New Tool for Monitoring Internet Connectivity](https://packetpushers.net/podcasts/heavy-wireless/hw057-orb-a-new-tool-for-monitoring-internet-connectivity/)
