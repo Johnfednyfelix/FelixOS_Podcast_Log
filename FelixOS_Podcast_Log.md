@@ -24,11 +24,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 |------------|-----------------------------------------|-----------------------------------------------|------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
 | 2025-08-06 | Ep. 790: Goal-Based AI Ops             | AI shifts network ops from rules to outcomes | Simulate OSPF path change as goal-based logic |   ✅   | [Link](https://packetpushers.net/podcasts/heavy-networking/hn790-from-rule-based-to-goal-based-rethinking-autonomous-ai-operations-sponsored/) |
 
-## 🔍 Episode Log
-
-| Date       | Episode Title                         | Core Insight                             | Actionable Idea                              | Implemented? | Link                                                                                     |
-|------------|----------------------------------------|-------------------------------------------|------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
-| 2025-08-06 | Ep. 057: Orb – Monitoring Connectivity | True internet quality ≠ just speed tests | Log real-world ping, jitter, and speed data   | ✅            | [Link](## 🔍 Episode Log
+           | [Link](## 🔍 Episode Log
 
 | Date       | Episode Title                         | Core Insight                             | Actionable Idea                              | Implemented? | Link                                                                                     |
 |------------|----------------------------------------|-------------------------------------------|------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
