@@ -33,8 +33,8 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date       | Episode Title                                         | Core Insight                                   | Actionable Idea                                      | Implemented? | Link                                                                                     |
 |------------|-------------------------------------------------------|------------------------------------------------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
-| 2025-08-06 | Ep. 074: News Roundup – Palo Alto Buys CyberArk, More | Physical access to sensitive networks is risky | Simulate rogue device on ATM network with port security | ✅            | [Link](https://packetpushers.net/podcast/pp074-news-roundup-microsoft-dumps-digital-escorts-palo-alto-bundles-billions-aboard-cyberark) |
-) |
+| 2025-08-15 | Ep. 074: News Roundup – Palo Alto Buys CyberArk, More | Physical access to sensitive networks is risky | Simulate rogue device on ATM network with port security | ✅            | [Link](https://packetpushers.net/podcasts/packet-protector/pp074-news-roundup-microsoft-dumps-digital-escorts-palo-alto-bundles-billions-aboard-cyberark/) |
+ |
 
 
 
