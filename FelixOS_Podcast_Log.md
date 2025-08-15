@@ -30,6 +30,18 @@ Track and extract high-value, implementable insights from technical podcasts lik
 |------------|----------------------------------------|-------------------------------------------|------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
 | 2025-08-06 | Ep. 057: Orb – Monitoring Connectivity | True internet quality ≠ just speed tests | Log real-world ping, jitter, and speed data   |         ✅            | [Link](https://packetpushers.net/podcasts/heavy-wireless/hw057-orb-a-new-tool-for-monitoring-internet-connectivity/) |
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                                         | Core Insight                                   | Actionable Idea                                      | Implemented? | Link                                                                                     |
+|------------|-------------------------------------------------------|------------------------------------------------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
+| 2025-08-06 | Ep. 074: News Roundup – Palo Alto Buys CyberArk, More | Physical access to sensitive networks is risky | Simulate rogue device on ATM network with port security | ✅            | [Link](## 🔍 Episode Log
+
+| Date       | Episode Title                                         | Core Insight                                   | Actionable Idea                                      | Implemented? | Link                                                                                     |
+|------------|-------------------------------------------------------|------------------------------------------------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
+| 2025-08-06 | Ep. 074: News Roundup – Palo Alto Buys CyberArk, More | Physical access to sensitive networks is risky | Simulate rogue device on ATM network with port security | ✅            | [Link](https://packetpushers.net/podcast/pp074-news-roundup-microsoft-dumps-digital-escorts-palo-alto-bundles-billions-aboard-cyberark) |
+) |
+
+
 
 
 
