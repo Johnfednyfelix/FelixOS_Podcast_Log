@@ -64,4 +64,4 @@ Switch(config-if)# switchport port-security violation shutdown
 ---
 
 ## 🎙️ Inspired By
-[PP074 – News Roundup](https://packetpushers.net/podcast/pp074-news-roundup-microsoft-dumps-digital-escorts-palo-alto-bundles-billions-aboard-cyberark)
+[PP074 – News Roundup](https://packetpushers.net/podcasts/packet-protector/pp074-news-roundup-microsoft-dumps-digital-escorts-palo-alto-bundles-billions-aboard-cyberark/)
