@@ -97,4 +97,4 @@ python agent_ping_monitor.py
 ---
 
 ## 🎙️ Inspired By
-[HN792 – Understanding Agentic AI for Network Operations](https://packetpushers.net/podcast/heavy-networking-792-understanding-agentic-ai-for-network-operations-sponsored)
+[HN792 – Understanding Agentic AI for Network Operations](https://packetpushers.net/podcasts/heavy-networking/hn792-understanding-agentic-ai-for-network-operations-sponsored/)
