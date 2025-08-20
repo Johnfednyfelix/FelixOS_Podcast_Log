@@ -34,7 +34,13 @@ Track and extract high-value, implementable insights from technical podcasts lik
 | Date       | Episode Title                                         | Core Insight                                   | Actionable Idea                                      | Implemented? | Link                                                                                     |
 |------------|-------------------------------------------------------|------------------------------------------------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
 | 2025-08-15 | Ep. 074: News Roundup – Palo Alto Buys CyberArk, More | Physical access to sensitive networks is risky | Simulate rogue device on ATM network with port security | ✅            | [Link](https://packetpushers.net/podcasts/packet-protector/pp074-news-roundup-microsoft-dumps-digital-escorts-palo-alto-bundles-billions-aboard-cyberark/) |
- 
+
+ ## 🔍 Episode Log
+
+| Date       | Episode Title                             | Core Insight                                   | Actionable Idea                                  | Implemented? | Link                                                                                     |
+|------------|--------------------------------------------|------------------------------------------------|--------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
+| 2025-08-20 | Ep. 792: Understanding Agentic AI in Ops   | Agents act on goals with RBAC guardrails       | Python ping monitor simulating bounded AI actions | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn792-understanding-agentic-ai-for-network-operations-sponsored/) |
+
 
 
 
