@@ -47,7 +47,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date       | Episode Title                             | Core Insight                                 | Actionable Idea                                  | Implemented? | Link  |
 |------------|--------------------------------------------|-----------------------------------------------|--------------------------------------------------|--------------|-------|
-| 2025-08-07 | Tech Bytes: ADNSR – Palo Alto DNS Security | DNS-layer security blocks threats at resolution | Simulate DNS resolver with ACL filtering in PT   | ✅            | [Link](https://packetpushers.net/podcasts/tech-bytes/tech-bytes-palo-alto-networks-advances-dns-security-with-adnsr-sponsored/))  |
+| 2025-08-07 | Tech Bytes: ADNSR – Palo Alto DNS Security | DNS-layer security blocks threats at resolution | Simulate DNS resolver with ACL filtering in PT   | ✅            | [Link](https://packetpushers.net/podcasts/tech-bytes/tech-bytes-palo-alto-networks-advances-dns-security-with-adnsr-sponsored/)  |
 
 
 
