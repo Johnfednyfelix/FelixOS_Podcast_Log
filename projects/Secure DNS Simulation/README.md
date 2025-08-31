@@ -60,4 +60,4 @@ Router(config-if)# end
 ---
 
 ## 🎙️ Inspired By
-[Tech Bytes – Palo Alto Networks Advances DNS Security with ADNSR](https://packetpushers.net/podcast/tech-bytes-palo-alto-networks-advances-dns-security-with-adnsr)
+[Tech Bytes – Palo Alto Networks Advances DNS Security with ADNSR](https://packetpushers.net/podcasts/tech-bytes/tech-bytes-palo-alto-networks-advances-dns-security-with-adnsr-sponsored/)
