@@ -42,6 +42,13 @@ Track and extract high-value, implementable insights from technical podcasts lik
 | 2025-08-20 | Ep. 792: Understanding Agentic AI in Ops   | Agents act on goals with RBAC guardrails       | Python ping monitor simulating bounded AI actions | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn792-understanding-agentic-ai-for-network-operations-sponsored/) |
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                             | Core Insight                                 | Actionable Idea                                  | Implemented? | Link  |
+|------------|--------------------------------------------|-----------------------------------------------|--------------------------------------------------|--------------|-------|
+| 2025-08-07 | Tech Bytes: ADNSR – Palo Alto DNS Security | DNS-layer security blocks threats at resolution | Simulate DNS resolver with ACL filtering in PT   | ✅            | [Link](https://packetpushers.net/podcasts/tech-bytes/tech-bytes-palo-alto-networks-advances-dns-security-with-adnsr-sponsored/))  |
+
+
 
 
 
