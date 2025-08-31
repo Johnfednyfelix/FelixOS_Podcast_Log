@@ -30,6 +30,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 |------------|----------------------------------------|-------------------------------------------|------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
 | 2025-08-06 | Ep. 057: Orb – Monitoring Connectivity | True internet quality ≠ just speed tests | Log real-world ping, jitter, and speed data   |         ✅            | [Link](https://packetpushers.net/podcasts/heavy-wireless/hw057-orb-a-new-tool-for-monitoring-internet-connectivity/) |
 
+## 🔍 Episode Log
 
 | Date       | Episode Title                                         | Core Insight                                   | Actionable Idea                                      | Implemented? | Link                                                                                     |
 |------------|-------------------------------------------------------|------------------------------------------------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
