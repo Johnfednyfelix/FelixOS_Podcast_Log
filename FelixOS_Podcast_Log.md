@@ -47,7 +47,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date       | Episode Title                             | Core Insight                                 | Actionable Idea                                  | Implemented? | Link  |
 |------------|--------------------------------------------|-----------------------------------------------|--------------------------------------------------|--------------|-------|
-| 2025-08-07 | Tech Bytes: ADNSR – Palo Alto DNS Security | DNS-layer security blocks threats at resolution | Simulate DNS resolver with ACL filtering in PT   | ✅            | [Link](https://packetpushers.net/podcasts/tech-bytes/tech-bytes-palo-alto-networks-advances-dns-security-with-adnsr-sponsored/)  |
+| 2025-08-31 | Tech Bytes: ADNSR – Palo Alto DNS Security | DNS-layer security blocks threats at resolution | Simulate DNS resolver with ACL filtering in PT   | ✅            | [Link](https://packetpushers.net/podcasts/tech-bytes/tech-bytes-palo-alto-networks-advances-dns-security-with-adnsr-sponsored/)  |
 
 
 
@@ -55,7 +55,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date       | Episode Title                              | Core Insight                                | Actionable Idea                                 | Implemented? | Link  |
 |------------|---------------------------------------------|----------------------------------------------|-------------------------------------------------|--------------|-------|
-| 2025-08-08 | Ep. 793: High-Performance Switch Memory     | SDM templates shift routing vs ACL capacity | Use `sdm prefer routing` vs `access` on PT 3560 | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn793-a-deep-dive-into-high-performance-switch-memory/)|
+| 2025-09-01 | Ep. 793: High-Performance Switch Memory     | SDM templates shift routing vs ACL capacity | Use `sdm prefer routing` vs `access` on PT 3560 | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn793-a-deep-dive-into-high-performance-switch-memory/)|
 
 
 
