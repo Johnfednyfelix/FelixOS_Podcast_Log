@@ -55,7 +55,8 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date       | Episode Title                              | Core Insight                                | Actionable Idea                                 | Implemented? | Link  |
 |------------|---------------------------------------------|----------------------------------------------|-------------------------------------------------|--------------|-------|
-| 2025-08-08 | Ep. 793: High-Performance Switch Memory     | SDM templates shift routing vs ACL capacity | Use `sdm prefer routing` vs `access` on PT 3560 | ✅            | [Link] (https://packetpushers.net/podcasts/heavy-networking/hn793-a-deep-dive-into-high-performance-switch-memory/)  |
+| 2025-08-08 | Ep. 793: High-Performance Switch Memory     | SDM templates shift routing vs ACL capacity | Use `sdm prefer routing` vs `access` on PT 3560 | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn793-a-deep-dive-into-high-performance-switch-memory/)|
+
 
 
 
