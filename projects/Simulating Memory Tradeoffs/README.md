@@ -72,4 +72,4 @@ Switch(config-if)# ip access-group 10 in
 ---
 
 ## 🎙️ Inspired By
-[HN793 – A Deep Dive Into High-Performance Switch Memory](https://packetpushers.net/podcast/heavy-networking-793-a-deep-dive-into-high-performance-switch-memory)
+[HN793 – A Deep Dive Into High-Performance Switch Memory](https://packetpushers.net/podcasts/heavy-networking/hn793-a-deep-dive-into-high-performance-switch-memory/)
