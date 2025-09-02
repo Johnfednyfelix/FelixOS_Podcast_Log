@@ -63,7 +63,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date       | Episode Title                                 | Core Insight                                | Actionable Idea                              | Implemented? | Link  |
 |------------|-----------------------------------------------|----------------------------------------------|----------------------------------------------|--------------|-------|
-| 2025-09-02 | Ep. 075: Kernel vs User Mode in Security      | Kernel mode = power + risk; APIs safer path | Simulate user vs kernel failures in Windows  | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn793-a-deep-dive-into-high-performance-switch-memory/) |
+| 2025-09-02 | Ep. 075: Kernel vs User Mode in Security      | Kernel mode = power + risk; APIs safer path | Simulate user vs kernel failures in Windows  | ✅            | [Link](https://packetpushers.net/podcasts/packet-protector/pp075-kernel-vs-user-mode-in-endpoint-security-software/) |
 
 
 
