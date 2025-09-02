@@ -45,3 +45,7 @@ Show why running software in kernel mode is powerful but risky compared to user 
 
 ## 🎙️ Inspired By
 [PP075 – Kernel Vs. User Mode In Endpoint Security Software](https://packetpushers.net/podcasts/packet-protector/pp075-kernel-vs-user-mode-in-endpoint-security-software/)
+
+
+## 🧠 Takeaway
+This shift is about **reducing sole dependence on the kernel** — moving critical security functions into safer user space and APIs for resilience.
