@@ -57,7 +57,7 @@ Emulate WLAN Pi Go’s ability to sniff Wi-Fi frames, observe associations, and 
 ---
 
 ## 🎙️ Inspired By
-[HW059 – Pi to Go: Introducing the WLAN Pi Go](https://packetpushers.net/podcast/heavy-wireless-059-pi-to-go-introducing-the-wlan-pi-go)
+[HW059 – Pi to Go: Introducing the WLAN Pi Go](https://packetpushers.net/podcasts/heavy-wireless/hw059-pi-to-go-introducing-the-wlan-pi-go/)
 
 ---
 
