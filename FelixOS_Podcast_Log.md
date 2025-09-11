@@ -67,6 +67,13 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                             | Core Insight                                | Actionable Idea                                  | Implemented? | Link  |
+|------------|--------------------------------------------|----------------------------------------------|--------------------------------------------------|--------------|-------|
+| 2025-09-11 | Ep. 059: WLAN Pi Go – Portable Wi-Fi Tool  | Portable analyzers give frame-level insight | Simulate Wi-Fi frame capture in PT (Simulation) | ✅            | [Link](https://packetpushers.net/podcasts/heavy-wireless/hw059-pi-to-go-introducing-the-wlan-pi-go/) |
+
+
 
 
 
