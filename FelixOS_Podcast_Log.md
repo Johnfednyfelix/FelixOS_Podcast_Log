@@ -76,6 +76,16 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                              | Core Insight                          | Actionable Idea                            | Implemented? | Link  |
+|------------|---------------------------------------------|---------------------------------------|--------------------------------------------|--------------|-------|
+| 2025-09-22 | Ep. 183: Measuring IPv6 and IPv6 Statistics | Measuring v6 helps track deployment   | Compare IPv4 vs IPv6 reachability on macOS | ✅            | [Link](https://packetpushers.net/podcasts/ipv6-buzz/ipb183-measuring-ipv6-and-ipv6-statistics/) |
+
+
+
+
+
 
 
 
