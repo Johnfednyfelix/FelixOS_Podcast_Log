@@ -89,6 +89,10 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+
+
+
+
 | Date | Episode Title | Core Insight | Actionable Idea | Implemented? | Link |
 |------|----------------|---------------|------------------|--------------|------|
 | YYYY-MM-DD | Ep. XXX: [Title] | Summary of key takeaway | What you can lab or build | ✅ / ❌ | [Link] |
