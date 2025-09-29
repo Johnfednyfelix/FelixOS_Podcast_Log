@@ -85,6 +85,13 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                 | Core Insight                              | Actionable Idea                                            | Implemented? | Link  |
+|------------|--------------------------------|--------------------------------------------|------------------------------------------------------------|--------------|-------|
+| 2025-09-29 | Ep. 795: Adventures in Latency | Latency ≠ bandwidth; instrumentation key  | Use extra hops + large pings + background traffic in PT    | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn795-adventures-in-latency/) |
+
+
 
 
 
