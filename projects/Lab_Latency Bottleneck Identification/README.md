@@ -75,7 +75,7 @@ ping 192.168.x.x
 ---
 
 ## 🎙️ Inspired By
-[HN795 – Adventures in Latency](https://packetpushers.net/podcast/heavy-networking-795-adventures-in-latency)
+[HN795 – Adventures in Latency](https://packetpushers.net/podcasts/heavy-networking/hn795-adventures-in-latency/)
 
 ---
 
