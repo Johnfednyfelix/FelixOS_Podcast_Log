@@ -96,6 +96,15 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                           | Core Insight                              | Actionable Idea                                      | Implemented? | Link  |
+|------------|------------------------------------------|--------------------------------------------|------------------------------------------------------|--------------|-------|
+| 2025-10-07 | Ep. 799: IPv6 Multi-Homing to Home Lab   | Dual-ISP redundancy boosts resilience     | Simulate IPv6 multi-homing with static routes in PT  | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn799-multi-homing-ipv6-to-your-home-lab/) |
+
+
+
+
 
 
 
