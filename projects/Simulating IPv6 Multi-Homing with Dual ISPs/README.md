@@ -48,14 +48,14 @@ On ISP Routers:
 ```
 ISP1# ipv6 route 2001:db8:10::/64 2001:db8:1::2
 ISP2# ipv6 route 2001:db8:10::/64 2001:db8:2::2
-
-Enable IPv6 routing (all routers):
 ```
+Enable IPv6 routing (all routers):
+
 Home: ipv6 unicast-routing
 ISP1: ipv6 unicast-routing
 ISP2: ipv6 unicast-routing
-```
 
+```
 ### 4. Test Connectivity
 - From PC:
 ```
