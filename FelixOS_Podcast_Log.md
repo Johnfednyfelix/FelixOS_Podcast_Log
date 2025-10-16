@@ -107,6 +107,15 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                              | Core Insight                                | Actionable Idea                                             | Implemented? | Link  |
+|------------|---------------------------------------------|----------------------------------------------|-------------------------------------------------------------|--------------|-------|
+| 2025-10-16 | Ep. 800: Root Cause Analysis for Full Stack | AI correlates network + app issues for RCA  | Simulate HTTP failure from switchport down in Packet Tracer | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn800-root-cause-analysis-for-the-entire-stack-sponsored/) |
+
+
+
+
 
 
 | Date | Episode Title | Core Insight | Actionable Idea | Implemented? | Link |
