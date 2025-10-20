@@ -119,7 +119,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date       | Episode Title                               | Core Insight                                     | Actionable Idea                                         | Implemented? | Link  |
 |------------|----------------------------------------------|--------------------------------------------------|----------------------------------------------------------|--------------|-------|
-| 2025-08-10 | Ep. 185: When IPv6 VPN and DNS Don’t Cooperate | Dual-stack mismatches cause weird connectivity  | Simulate stack disablement to mimic VPN interference in PT | ✅            | [Link](https://packetpushers.net/podcasts/ipv6-buzz/ipb185-when-ipv6-vpn-and-dns-dont-cooperate/) |
+| 2025-10-20 | Ep. 185: When IPv6 VPN and DNS Don’t Cooperate | Dual-stack mismatches cause weird connectivity  | Simulate stack disablement to mimic VPN interference in PT | ✅            | [Link](https://packetpushers.net/podcasts/ipv6-buzz/ipb185-when-ipv6-vpn-and-dns-dont-cooperate/) |
 
 
 
