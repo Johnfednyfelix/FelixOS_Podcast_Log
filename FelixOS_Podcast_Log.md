@@ -127,7 +127,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date       | Episode Title                                                   | Core Insight                                           | Actionable Idea                                              | Implemented? | Link  |
 |------------|------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------|--------------|-------|
-| 2025-08-10 | Ep. 081: BRICKstorm Backdoor & Supply Chain Defense Plans (PP081) | Appliance backdoors persist via firmware/logic layers  | Detect & quarantine rogue router subinterface in Packet Tracer | ✅            | [Link] |
+| 2025-08-10 | Ep. 081: BRICKstorm Backdoor & Supply Chain Defense Plans (PP081) | Appliance backdoors persist via firmware/logic layers  | Detect & quarantine rogue router subinterface in Packet Tracer | ✅            | [Link](https://packetpushers.net/podcasts/packet-protector/pp081-news-roundup-brickstorm-backdoor-targets-network-appliances-github-unveils-supply-chain-defense-plans/) |
 
 
 
