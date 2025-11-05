@@ -141,7 +141,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 | Date       | Episode Title                                             | Core Insight                                     | Actionable Idea                                         | Implemented? | Link  |
 |------------|------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------|--------------|-------|
-| 2025-08-10 | Ep. 082: Mobile Security Strategy (PP082)                 | Segmentation protects networks from risky devices | Isolate BYOD VLAN with ACLs in Packet Tracer             | ✅            | [Link](https://packetpushers.net/podcasts/packet-protector/pp082-building-a-workable-mobile-security-strategy-in-a-world-of-risky-apps/) |
+| 2025-11-05 | Ep. 082: Mobile Security Strategy (PP082)                 | Segmentation protects networks from risky devices | Isolate BYOD VLAN with ACLs in Packet Tracer             | ✅            | [Link](https://packetpushers.net/podcasts/packet-protector/pp082-building-a-workable-mobile-security-strategy-in-a-world-of-risky-apps/) |
 
 
 
