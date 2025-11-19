@@ -145,6 +145,12 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                                           | Core Insight                                            | Actionable Idea                                             | Implemented? | Link  |
+|------------|----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|--------------|-------|
+| 2025-11-19 | Ep. 804: Prisma SASE on Public Cloud (HN804)             | Public-cloud PoPs yield global scale & resiliency         | Simulate dual-PoP cloud failover using static routes in PT   | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn804-how-prisma-sase-builds-on-public-clouds-for-scale-resiliency-sponsored/) |
+
 
 
 
