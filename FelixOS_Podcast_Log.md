@@ -154,6 +154,13 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                                            | Core Insight                                      | Actionable Idea                                              | Implemented? | Link  |
+|------------|------------------------------------------------------------|---------------------------------------------------|----------------------------------------------------------------|--------------|-------|
+| 2025-11-24 | Ep. 086: ACME & Let's Encrypt (PP086)                     | ACME automates domain validation via HTTP-01      | Simulate ACME challenge by hosting validation file in PT lab   | ✅            | [Link](https://packetpushers.net/podcasts/packet-protector/pp086-using-lets-encrypt-and-the-acme-protocol-for-domain-validation-certificates/) |
+
+
 
 
 
