@@ -162,6 +162,14 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                                 | Core Insight                                   | Actionable Idea                                      | Implemented? | Link  |
+|------------|------------------------------------------------|-----------------------------------------------|-------------------------------------------------------|--------------|-------|
+| 2025-12-02 | Ep. 188: IPv6 Adoption for an Entire Country   | Tuvalu reached world-leading IPv6 via dual-stack | Simulate dual-stack island network in Packet Tracer   | ✅            | [Link](https://packetpushers.net/podcasts/ipv6-buzz/ipb188-ipv6-adoption-for-an-entire-country/) |
+
+
+
 
 
 
