@@ -171,6 +171,15 @@ Track and extract high-value, implementable insights from technical podcasts lik
 
 
 
+## 🔍 Episode Log
+
+| Date       | Episode Title                     | Core Insight                                      | Actionable Idea                                     | Implemented? | Link  |
+|------------|------------------------------------|---------------------------------------------------|------------------------------------------------------|--------------|-------|
+| 2025-12-09 | Ep. 807: A "CLI Lifer" No More     | Automation begins with standardizing configs       | Duplicate VLAN config across two switches in PT      | ✅            | [Link](https://packetpushers.net/podcasts/heavy-networking/hn807-a-cli-lifer-no-more/) |
+
+
+
+
 
 
 
