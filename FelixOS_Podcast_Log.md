@@ -6,8 +6,7 @@ Track and extract high-value, implementable insights from technical podcasts lik
 ---
 
 ## ✅ Weekly Listening Target
-- 🎯 **1-2 Episodes per week**
-- 🛠️ **1 Prototype or Lab built per insight**
+- 🛠️ **1 Prototype or Lab built per insight/episode**
 
 ---
 
